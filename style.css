@@ -1,0 +1,40 @@
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
+  background-size: cover;
+  color: white;
+}
+.container h1,
+h2 {
+  text-align: center;
+  font-size: 36px;
+  font-weight: bold;
+  color: white;
+  height: fit-content;
+}
+span {
+  color: chocolate;
+}
+.name {
+  padding-left: 600px;
+  float: left;
+}
+.name p {
+  background-color: darkcyan;
+}
+.email {
+  padding-left: 850px;
+  padding-top: 0.1px;
+}
+.email p {
+  background-color: darkcyan;
+  width: 175px;
+}
+.choose {
+  text-align: center;
+  font-size: medium;
+}
+.tekan {
+  margin-left: 740px;
+  background-color: tomato;
+}
